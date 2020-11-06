@@ -1,5 +1,5 @@
 # Calter
-Calories counter app build with Python and Flask
+Calories counter app built with Python and Flask
 
 # Creating the DB with sqlite3
 sqlite3 food_log.db < food_tracker.sql
